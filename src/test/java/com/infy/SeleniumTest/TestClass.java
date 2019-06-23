@@ -8,6 +8,7 @@ public class TestClass {
 	public  void testing(){
 		
 		System.out.println("Testing Conflicts");
+		System.out.println("Testing direct push");
 	}
 	
 
