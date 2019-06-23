@@ -10,6 +10,7 @@ public class TestClass {
 		System.out.println("Testing Conflicts");
 		System.out.println("Testing direct push");
 		System.out.println("Testing Pull");
+		System.out.println("Testing Merge");
 	}
 	
 
